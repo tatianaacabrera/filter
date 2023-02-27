@@ -1,0 +1,6 @@
+/filter-env/
+**/__pycache__/
+/build/
+/dist/
+/service.egg-info/
+/env/
